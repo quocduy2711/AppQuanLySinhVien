@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quản lý sinh viên</string>
+
+    <string name="student_management_title">Quản lý sinh viên</string>
+    <string name="student_id_hint">MSSV (*)</string>
+    <string name="student_name_hint">Họ và tên (*)</string>
+    <string name="gender_label">Giới tính</string>
+    <string name="phone_number_hint">Số điện thoại</string>
+    <string name="email_hint">Gmail</string>
+    <string name="button_back">TRỞ VỀ</string>
+    <string name="button_update">CẬP NHẬT</string>
+    <string name="button_add">THÊM</string>
+    <string name="student_list_title">Danh Sách Sinh Viên</string>
+</resources>
